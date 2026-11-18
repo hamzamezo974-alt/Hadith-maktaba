@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="360" viewBox="0 0 1440 360" fill="none">
+  <defs>
+    <pattern id="geo" width="96" height="96" patternUnits="userSpaceOnUse">
+      <g fill="none" stroke="#C9A96B" stroke-width="1" stroke-opacity=".26" stroke-linejoin="round">
+        <path d="m48 12 10.5 10.5H73.5V37.5L84 48 73.5 58.5V73.5H58.5L48 84 37.5 73.5H22.5V58.5L12 48 22.5 37.5V22.5H37.5Z"/>
+        <path d="m48 25 23 23-23 23-23-23Z"/>
+        <path d="M36 36h24v24H36Z"/>
+        <path d="M48 0v12M84 48h12M48 84v12M0 48h12M0 0l22.5 22.5M96 0 73.5 22.5M96 96 73.5 73.5M0 96l22.5-22.5"/>
+      </g>
+    </pattern>
+  </defs>
+  <rect width="1440" height="360" fill="url(#geo)"/>
+</svg>
